@@ -22,8 +22,7 @@
 			echo "<a href=\"liankan/".$hash."/3.pdf\">第三期</a></br>";
 			echo "<a href=\"liankan/".$hash."/4.pdf\">第四期</a></br>";
 			echo "<a href=\"liankan/".$hash."/5.pdf\">毕业纪念册</a></br>";
-			echo "百度云地址：";
-			echo "链接: <a href=http://pan.baidu.com/s/1cyYH7S>http://pan.baidu.com/s/1cyYH7S</a> 密码: krr6";
+			echo "百度云地址：<a href=\"liankan/".$hash."/yun.html\">百度云</a></br>";
 		}
 		else
 		{
